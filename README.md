@@ -23,8 +23,9 @@ Steps to Reproduce:
 3. Technical Analysis
 When the search request is sent, the server processes the search parameter. Because there is "nothing encoded" (as specified in the lab title), the raw HTML tags are rendered by the browser.
 
-<img width="1368" height="735" alt="xss1" src="https://github.com/user-attachments/assets/dca33aa2-98eb-461f-8eba-4a746502d640" />
-<img width="1368" height="735" alt="xss" src="https://github.com/user-attachments/assets/fff1604a-e29e-4a4d-a5d9-bcf59143cfdb" />
+<img width="1368" height="735" alt="xss2" src="https://github.com/user-attachments/assets/b1d89f50-b48c-4564-89cf-ddd0bc62804b" />
+<img width="1368" height="735" alt="xss1" src="https://github.com/user-attachments/assets/c09be9ba-ca4a-4e14-8b31-48f38c58e1e5" />
+<img width="1368" height="735" alt="xss" src="https://github.com/user-attachments/assets/f4d8dd99-6e5c-47a8-8b79-0c3ab41cd8f3" />
 
 4. Impact
 
