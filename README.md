@@ -40,9 +40,4 @@ An attacker could utilize this vulnerability to:
 6. Remediation
 To fix this vulnerability, the application should perform HTML Entity Encoding on all user-supplied data before rendering it in an HTML context.
 
-    Convert < to &lt;
-   
-    Convert > to &gt;
-   
-    Convert " to &quot;
-   
+    
